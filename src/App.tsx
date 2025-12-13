@@ -7,6 +7,7 @@ import {
 } from "@/components/ui/select";
 
 const options = [
+  { value: null, label: "Select an option" },
   { value: "a", label: "Option A" },
   { value: "b", label: "Option B" },
   { value: "c", label: "Option C" },
